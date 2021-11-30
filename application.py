@@ -10,4 +10,5 @@ def index():
 
 
 if __name__ == "__main__":
+    print ("Hello world")
     app.run(debug=True)
